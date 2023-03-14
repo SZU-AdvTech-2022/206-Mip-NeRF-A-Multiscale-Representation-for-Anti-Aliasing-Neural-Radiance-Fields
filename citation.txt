@@ -1,0 +1,7 @@
+@inproceedings{REPO-207,
+    author = "Barron, Jonathan T and Mildenhall, Ben and Tancik, Matthew and Hedman, Peter and Martin-Brualla, Ricardo and Srinivasan, Pratul P",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "5855--5864",
+    title = "{Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields}",
+    year = "2021"
+}
